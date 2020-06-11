@@ -8,7 +8,7 @@ This document complies with the OpenRTB 2.3 specificatoin.
 Therefore, this document does not cover details regarding BidRequest/Response.  
 For more details on these, please check OpenRTB 2.3 specification via below link.
 
-http://www.iab.net/media/file/OpenRTB-API-Specification-Version-2-3.pdf
+https://www.iab.com/wp-content/uploads/2015/06/OpenRTB-API-Specification-Version-2-3.pdf
 
 If you have any question about this document, please reach out to admixer@nasmedia.co.kr.  
 <br>
